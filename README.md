@@ -60,3 +60,9 @@ Para utilizar a solução, certifique-se de que as seguintes dependências estej
 Após a instalação das dependências, execute o arquivo `blackout_assistance.py` pelo tempo em que desejar manter a solução ativa. 
 
 Obs: Certifique-se que todos os arquivos se encontram na mesma pasta e de permitir o acesso às imagens das câmeras pelo programa.
+
+## 🔗 Link do video:
+
+* https://youtu.be/QpKFadn6Tmw
+
+![Screenshot](imagem_1.jpg)
