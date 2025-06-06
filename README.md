@@ -47,15 +47,15 @@ Ao confirmar o gesto, o sistema envia:
 * (Opcional) Geolocalização do evento para resposta rápida da equipe de segurança pública.
 
 ## 🛠️ Instruções de Uso
-Para utilizar a solução, certifique-se de que as seguintes dependências estejam instaladas no microcontrolador:
+Para utilizar a solução é necessária uma câmera conectada ao microcontrolador ou computador, e certifique-se de que as seguintes dependências estejam instaladas:
 
 * **Python**
 
-* **MediaPipe**
+* **MediaPipe** (Pycharm: instalar pacote "mediapipe", CMD: executar o comando "python -m pip install mediapipe")
 
-* **NumPy**
+* **NumPy** (Pycharm: instalar pacote "numpy", CMD: executar o comando "python -m pip install numpy")
 
-* **OpenCV (CV2)**
+* **OpenCV (CV2)** (Pycharm: instalar pacote "opencv-python", CMD: executar o comando "python -m pip install opencv-python")
 
 Após a instalação das dependências, execute o arquivo `blackout_assistance.py` pelo tempo em que desejar manter a solução ativa. 
 
